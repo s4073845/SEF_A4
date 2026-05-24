@@ -1,0 +1,2 @@
+23@!abcdAB;Alice Smith;5;Light;12|Main St|Melbourne|VIC|Australia;15-06-1990
+45!!ababAB;Bob Jones;12;Heavy;7|Oak Rd|Sydney|NSW|Australia;01-01-1970
